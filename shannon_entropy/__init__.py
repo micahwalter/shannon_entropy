@@ -1,4 +1,4 @@
-import Image
+from PIL import Image
 import math
 
 ####### calculate the shannon entropy for an image ###############
